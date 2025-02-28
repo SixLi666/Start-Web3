@@ -8,7 +8,7 @@ timezone: UTC+8
 2. 应该可以
 3. 646767952@qq.com
 
-## 坚持一下
+## 坚持一下每天学习新技能
 
 <!-- Content_START -->
 
